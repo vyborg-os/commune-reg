@@ -1,3 +1,0 @@
-[30-Mar-2023 15:54:13 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/greziti2/public_html/wayvytech.online/commune/model/controller.php on line 45
-[30-Mar-2023 15:54:24 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/greziti2/public_html/wayvytech.online/commune/model/controller.php on line 45
-[30-Mar-2023 15:54:46 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home2/greziti2/public_html/wayvytech.online/commune/model/controller.php on line 45
