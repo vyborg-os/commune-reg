@@ -1,9 +1,9 @@
 <?php
     //server variable
     $host = 'localhost';
-    $user = 'greziti2_vhk';
-    $pass = 'Programmer$$01';
-    $db = 'greziti2_community';
+    $user = 'root';
+    $pass = '';
+    $db = 'community';
 
     //create connection
     $mysqli = new mysqli($host, $user, $pass, $db);
